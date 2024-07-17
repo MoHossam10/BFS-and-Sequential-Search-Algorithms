@@ -29,6 +29,7 @@ cell (It is clearer than console).
 
 
  Analysis of the algorithms: 
+ 
  ![Project Screenshot](Screenshot7.png)
 
 
@@ -36,12 +37,17 @@ cell (It is clearer than console).
 
 Sequential Search:
 Best case: Time complexity is O(1) because the selected cell is first cell.
+
 ![Project Screenshot](Screenshot1.png)
+
 Average case: Time complexity is O(r*c) because the selected cell needs two for 
 loop to reach to it.  
+
 ![Project Screenshot](Screenshot2.png)
+
 Worst case: Time complexity is O(r*c) because the selected cell needs two for 
 loop to reach to it.  
+
 ![Project Screenshot](Screenshot3.png)
 
 
@@ -49,12 +55,17 @@ loop to reach to it.
 
 Breadth-First Search:
 Best case: Time complexity is O(1) because the selected cell is first cell.
+
 ![Project Screenshot](Screenshot4.png)
+
 Average case: Time complexity is O(r*c) because the selected cell needs two for 
 loop to reach to it. 
+
 ![Project Screenshot](Screenshot5.png)
+
 Worts case: Time complexity is O(r*c) because the selected cell needs two for 
 loop to reach to it. 
+
 ![Project Screenshot](Screenshot6.png)
 
 
